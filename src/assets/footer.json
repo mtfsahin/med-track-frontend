@@ -1,0 +1,27 @@
+[
+    {
+      "id": 0,
+      "title": "About",
+      "url": "/about",
+      "target-type": "_self"
+    },
+    {
+      "id": 1,
+      "title": "Linekdin",
+      "url": "https://www.linkedin.com/in/mustafa-sahin-dev/",
+      "target-type": "_blank"
+    },
+    {
+      "id": 2,
+      "title": "Github",
+      "url": "https://www.github.com/mtfsahin/",
+      "target-type": "_blank"
+    },
+    {
+      "id": 3,
+      "title": "Contact us",
+      "url": "/contact",
+      "target-type": "_self"
+    }
+  ]
+  

@@ -1,0 +1,28 @@
+[
+    {
+      "id": 0,
+      "title": "Home",
+      "url": "/"
+    },
+        {
+      "id": 1,
+      "title": "Control Panel",
+      "url": "/controlpanel"
+    },
+    {
+      "id": 2,
+      "title": "Favorities",
+      "url": "/favorities"
+    },
+    {
+      "id": 3,
+      "title": "About",
+      "url": "/about"
+    },
+    {
+      "id": 4,
+      "title": "Contact us",
+      "url": "/contact"
+    }
+  ]
+  
